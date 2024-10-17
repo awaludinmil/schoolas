@@ -1,0 +1,169 @@
+[16-Oct-2024 02:14:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 02:14:34 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 02:14:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 40
+[16-Oct-2024 02:14:34 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 40
+[16-Oct-2024 02:14:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 41
+[16-Oct-2024 02:14:34 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 41
+[16-Oct-2024 02:14:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 42
+[16-Oct-2024 02:14:34 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 42
+[16-Oct-2024 02:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 02:31:51 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 02:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 40
+[16-Oct-2024 02:31:51 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 40
+[16-Oct-2024 02:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 41
+[16-Oct-2024 02:31:51 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 41
+[16-Oct-2024 02:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 42
+[16-Oct-2024 02:31:51 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 42
+[16-Oct-2024 05:16:13 UTC] PHP Warning:  move_uploaded_file(uploads/IMG_20241016_051549.jpg): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:16:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiPiAN1' to 'uploads/IMG_20241016_051549.jpg' in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:26:17 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:26:17 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:26:17 UTC] PHP Warning:  Undefined variable $connection in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:26:56 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:26:56 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:26:56 UTC] PHP Warning:  Undefined variable $connection in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:28:40 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:28:40 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:28:40 UTC] PHP Warning:  Undefined variable $connection in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:28:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:30:02 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:30:02 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 3
+[16-Oct-2024 05:30:02 UTC] PHP Warning:  Undefined variable $connection in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 69
+[16-Oct-2024 05:47:03 UTC] PHP Warning:  move_uploaded_file(uploads/IMG_20241016_051549.jpg): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:47:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnabCFB' to 'uploads/IMG_20241016_051549.jpg' in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:53:27 UTC] PHP Warning:  move_uploaded_file(uploads/25507685_116344782493734_9142533000546993319_n.jpg): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:53:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpB9SGUu' to 'uploads/25507685_116344782493734_9142533000546993319_n.jpg' in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:53:50 UTC] PHP Warning:  move_uploaded_file(uploads/Screenshot 2024-10-16 092626.png): Failed to open stream: No such file or directory in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 05:53:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpltDIdJ' to 'uploads/Screenshot 2024-10-16 092626.png' in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 66
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:04:29 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:27:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:27:44 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:41:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:41:43 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 91
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 92
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 93
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 94
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 95
+[16-Oct-2024 06:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:42:15 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 96
+[16-Oct-2024 06:55:46 UTC] PHP Warning:  Undefined array key "kd_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 06:55:46 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 07:10:07 UTC] PHP Warning:  Undefined array key "kd_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 07:10:07 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 07:13:58 UTC] PHP Warning:  Undefined array key "kd_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 07:13:58 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 90
+[16-Oct-2024 12:03:48 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 12:03:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 12:03:48 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[16-Oct-2024 12:03:48 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[16-Oct-2024 12:03:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[16-Oct-2024 12:03:48 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[16-Oct-2024 12:03:48 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:18:47 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:18:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:18:47 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:18:47 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:18:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:18:47 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:18:47 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:49:50 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:49:50 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:49:50 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:49:50 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:49:50 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:51:56 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:51:56 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:51:56 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:51:56 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:51:56 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:56:56 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:56:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:56:56 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 39
+[17-Oct-2024 03:56:56 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:56:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:56:56 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
+[17-Oct-2024 03:56:56 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/api_flutter/galery.php on line 44
